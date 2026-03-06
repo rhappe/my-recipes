@@ -1,0 +1,11 @@
+abi_version=1.201.0
+builtins_platform=WASM
+compiler_version=2.1.0
+depends=components.resources\:library org.jetbrains.compose.material3\:material3 org.jetbrains.compose.material\:material-ripple org.jetbrains.compose.foundation\:foundation org.jetbrains.compose.animation\:animation org.jetbrains.compose.material\:material-icons-core org.jetbrains.compose.foundation\:foundation-layout org.jetbrains.compose.ui\:ui org.jetbrains.kotlinx\:kotlinx-browser org.jetbrains.compose.animation\:animation-core org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu org.jetbrains.compose.runtime\:runtime-saveable kotlin org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.ui\:ui-text org.jetbrains.compose.ui\:ui-graphics org.jetbrains.compose.ui\:ui-unit org.jetbrains.skiko\:skiko org.jetbrains.compose.ui\:ui-geometry org.jetbrains.compose.ui\:ui-util
+ir_signature_versions=1,2
+jsOutputName=my-recipes-app-wasm-js
+metadata_version=1.4.1
+serializedIrFileFingerprints=3pmt2h3s0s3th.2ogag2dlryu6y 14n0nirg8ugie.2x4rj93u9132b 10ai42810uwp3.234ckx8d87fyn igljm90tzay5.32kf7uge7yqik 1yttitw1y2jpd.o7rx3f5ow9jn
+serializedKlibFingerprint=26rq7v0nc0xws.2kucmbmq9d4jc
+unique_name=my-recipes\:app
+wasm_targets=wasm-js
